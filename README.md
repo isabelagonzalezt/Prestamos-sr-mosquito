@@ -10,17 +10,17 @@
 ### Descripción
 > hola soy un joven apuesto de 19 años bilingüe uwu👉🏻👈🏻
 # 2. Vínculos académicos y descripción
-## Isabela Gonzalez
+## **Isabela Gonzalez**
 ### Programa al que pertenece:
 >
 ### Habilidades y fortalezas:
 >
-## Edwin García
+## **Edwin García**
 ### Programa al que pertenece:
 >
 ### Habilidades y fortalezas:
 >
-## Alejandro Usme
+## **Alejandro Usme**
 ### Programa al que pertenece:
 >
 ### Habilidades y fortalezas:
