@@ -1,5 +1,4 @@
 # **Prestamos-sr-mosquito🦟**
-![imagen del sr-mosquito](https://raw.githubusercontent.com/isabelagonzalezt/Prestamos-sr-mosquito/refs/heads/main/img/sr%20mosquito.jpg)
 # 1. *Integrantes*
 ## **Isabela Gonzalez**
 ### Descripción
@@ -14,22 +13,27 @@
 ## Isabela Gonzalez
 ### Programa al que pertenece:
 >
-### Habilidades y fortalezas
+### Habilidades y fortalezas:
 >
 ## Edwin García
 ### Programa al que pertenece:
 >
-### Habilidades y fortalezas
+### Habilidades y fortalezas:
 >
 ## Alejandro Usme
 ### Programa al que pertenece:
 >
-### Habilidades y fortalezas
+### Habilidades y fortalezas:
 >
 # 3. Nombre del proyecto y detalles
+## Descripción del proyecto:
+>
+## Imagen representativa:
+![imagen del sr-mosquito](https://raw.githubusercontent.com/isabelagonzalezt/Prestamos-sr-mosquito/refs/heads/main/img/sr%20mosquito.jpg)
 # 4. Licencia
+
+<a href="https://github.com/isabelagonzalezt/Prestamos-sr-mosquito/tree/main">Sr-mosquito</a> © 2026 by <a href="https://github.com/isabelagonzalezt">Isabela Gonzalez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 # 5. Reporte de visión
 # 6. Especificación de requisitos
 # 7. Plan de proyecto
 
-<a href="https://github.com/isabelagonzalezt/Prestamos-sr-mosquito/tree/main">Sr-mosquito</a> © 2026 by <a href="https://github.com/isabelagonzalezt">Isabela Gonzalez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
