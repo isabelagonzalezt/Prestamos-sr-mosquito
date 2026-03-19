@@ -1,5 +1,5 @@
 # **Prestamos-sr-mosquito🦟**
-
+![imagen del sr-mosquito](https://raw.githubusercontent.com/isabelagonzalezt/Prestamos-sr-mosquito/refs/heads/main/img/sr%20mosquito.jpg)
 # *Integrantes*
 ## **Isabela Gonzalez**
 ### Descripción
