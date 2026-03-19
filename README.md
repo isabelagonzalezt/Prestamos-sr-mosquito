@@ -9,5 +9,5 @@
 > hola
 ## **Alejandro Usme**
 ### Descripción
-> hola soy un joven apuesto de 19 años bilingüe uwu
+> hola soy un joven apuesto de 19 años bilingüe uwu👉🏻👈🏻
 
