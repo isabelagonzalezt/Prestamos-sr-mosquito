@@ -5,10 +5,10 @@
 > hola
 ## **Edwin Garcia**
 ### Descripción
-> hola
+> hola, soy un joven bello y precioso
 ## **Alejandro Usme**
 ### Descripción
-> hola soy un joven apuesto de 19 años bilingüe uwu👉🏻👈🏻
+> Hola, tengo 19 años, actualmente estudio en la Universidad de Antioquia en el programa de Ingeniería Industrial. Soy un estudiante enfocado en el éxito y las metas, viviendo el día a día con entusiasmo y alegría. Me considero una persona proactiva y con gran capacidad de adaptación a nuevos retos. Me gusta el cine y los videojuegos. 
 # 2. *Vínculos académicos y descripción*
 ## **Isabela Gonzalez**
 ### Programa al que pertenece:
@@ -22,9 +22,9 @@
 >
 ## **Alejandro Usme**
 ### Programa al que pertenece:
->
+> (513) Ingeniería Industrial 
 ### Habilidades y fortalezas:
->
+> Respeto, creatividad, entusiasmo, amabilidad, perseverancia, versatilidad, trabajo en equipo, responsabilidad, dominio del idioma inglés, conocimiento de programación básica. 
 # 3. *Nombre del proyecto y detalles*
 ## Descripción del proyecto:
 >
