@@ -12,7 +12,7 @@
 # 2. *Vínculos académicos y descripción*
 ## **Isabela Gonzalez**
 ### Programa al que pertenece:
-> Ingeniería Industrial
+> (513) Ingeniería Industrial
 ### Habilidades y fortalezas:
 > Respeto, responsabilidad, adaptación
 ## **Edwin García**
