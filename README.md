@@ -2,7 +2,7 @@
 # 1. *Integrantes*
 ## **Isabela Gonzalez**
 ### Descripción
-> hola
+> Hola, soy una joven de 18 años, estudiante de Ingeniería Industrial de la Universidad de Antioquia, actualmente cursando el tercer semestre académico. Además de la ingeniería, tengo otras pasiones como el arte, la música o los videojuegos. Lo que más me motiva es poder vivir haciendo lo que amo.
 ## **Edwin Garcia**
 ### Descripción
 > hola, soy un joven bello y precioso
@@ -14,7 +14,7 @@
 ### Programa al que pertenece:
 > Ingeniería Industrial
 ### Habilidades y fortalezas:
->
+> Respeto, responsabilidad, adaptación
 ## **Edwin García**
 ### Programa al que pertenece:
 >
