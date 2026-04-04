@@ -71,8 +71,31 @@
 > - El sistema debe permitir mantenimiento y escalabilidad.  
 # 7. *Plan de proyecto*
 ## Actividades:
->
+>- Análisis de requisitos
+> - Diseño del sistema
+> - Desarrollo de módulos
+>  - Usuarios
+>  - Ítems
+>  - Préstamos
+>  - Devoluciones
+>  - Administración
+>  - Pruebas del sistema
+>  - Documentación
+>  - Entrega final
 ## Cronograma:
->
+### Semana 1-2: Análisis y planeación 
+> desc
+### Semana 3-4: Diseño del sistema  
+> desc
+### Semana 5-8: Desarrollo inicial  
+> desc
+### Semana 9-12: Desarrollo completo  
+> desc
+### Semana 13-14: Pruebas  
+> desc
+### Semana 15: Ajustes finales  
+> desc
+### Semana 16: Entrega  
+> desc
 ## Prespuesto: 
 >
