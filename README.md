@@ -35,7 +35,7 @@
 <a href="https://github.com/isabelagonzalezt/Prestamos-sr-mosquito">Prestamos-sr-mosquito</a> © 2026 by <a href="https://github.com/isabelagonzalezt">Isabela Gonzalez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 # 5. *Reporte de visión*
 ## Desccripción general:
-> 
+> Software desarollado bajo el entorno de programación Python, mediante el uso de programación básica y pensamiento algorítmico, con el propósito principal de brindar solución a modo de gestor de préstamos.
 ## Objetivos:
 > - Registrar usuarios e ítems
 > - Organizar y gestionar la información de préstamos
