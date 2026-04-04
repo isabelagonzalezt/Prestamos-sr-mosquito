@@ -89,12 +89,12 @@
 ### Semana 5-8: Desarrollo inicial  
 > Se trabajará en el README ya creado y estructurado, completando detalladamente la información ya planeada y faltante acerca del proyecto, finalizando así lo requerido para la primera entrega. Se tendran en cuenta consideraciones para el desarrollo de los pasos programables en Python, teniendo así claro lo pedido y cómo se hará. 
 ### Semana 9-12: Desarrollo completo  
-> desc
+> Se desarrollarán todos los algoritmos necesarios bajo plataformas como VSCode o Spyder, que permitirán el desarrollo de la plataforma de préstamos, buscando cumplir los requisitos mencionados en la rúbrica evaluativa. Además se publicarán en el repositorio GitHub del proyecto, en la carpeta "src".
 ### Semana 13-14: Pruebas  
-> desc
+> Posterior al desarrollo de los códigos se entrará en un período de pruebas donde se verificará el correcto funcionamiento de los códigos bajo los propósitos anteriormente establecidos. Así, se garantiza que el software desarrollado para el proyecto es funcional bajo su propósito.
 ### Semana 15: Ajustes finales  
-> desc
-### Semana 16: Entrega  
-> desc
+> Con base al período de pruebas, se detectarán fallas o posibles mejoras a los algoritmos desarollados. Durante los ajustes finales, se buscará reducir en su totalidad o en la mayor cantidad posible el número de fallas en la ejecución o utilidad de la plataforma.
+### Semana 16: Entrega y sustentación
+> Se realizará la entrega del proyecto completo mediante el repositorio GitHub al docente, cumpliendo con el ordenamiento adecuado mencionado en la rúbrica evaluativa. Además se realizará la sustentación del proyecto en clase.
 ## Prespuesto: 
 >
