@@ -38,37 +38,37 @@
 > El proyecto "Préstamos Sr. Mosquito" es un software desarrollado en Python basado en consola que permite gestionar el préstamo de artículos entre usuarios. El sistema busca solucionar el problema de control y seguimiento de objetos prestados, evitando pérdidas y olvidos.
 ## Objetivos:
 > - Registrar usuarios e ítems
-- Organizar y gestionar la información de préstamos
-- Automatizar y registrar el control de devoluciones
-- Reducir pérdidas de objetos
-- Generar reportes claros y útiles
+> - Organizar y gestionar la información de préstamos
+> - Automatizar y registrar el control de devoluciones
+> - Reducir pérdidas de objetos
+> - Generar reportes claros y útiles
 ## Beneficios:
 >- Mejor organización
-- Control total de préstamos
-- Automatización de procesos
-- Reducción de errores humanos
+> - Control total de préstamos
+> - Automatización de procesos
+> - Reducción de errores humanos
 # 6. *Especificación de requisitos*
 ## Requisitos funcionales:
 > - El sistema debe permitir registrar usuarios con validaciones.  
-- El sistema debe permitir registrar ítems con categoría e ID único.  
-- El sistema debe permitir realizar préstamos solo a usuarios registrados.  
-- El sistema debe permitir registrar devoluciones.  
-- El sistema debe generar certificados de devolución.  
-- El sistema debe generar ventas automáticas después de 30 días.  
-- El sistema debe calcular el impuesto del 23% en ventas.  
-- El sistema debe permitir consultar el estado de los préstamos.  
-- El sistema debe generar reportes administrativos.  
-- El sistema debe almacenar la información en archivos planos.  
-- El sistema debe exportar información a archivos CSV.  
+> - El sistema debe permitir registrar ítems con categoría e ID único.  
+> - El sistema debe permitir realizar préstamos solo a usuarios registrados.  
+> - El sistema debe permitir registrar devoluciones.  
+> - El sistema debe generar certificados de devolución.  
+> - El sistema debe generar ventas automáticas después de 30 días.  
+> - El sistema debe calcular el impuesto del 23% en ventas.  
+> - El sistema debe permitir consultar el estado de los préstamos.  
+> - El sistema debe generar reportes administrativos.  
+> - El sistema debe almacenar la información en archivos planos.  
+> - El sistema debe exportar información a archivos CSV.  
 ## Requisitos no funcionales: 
 > - El sistema debe ser desarrollado en Python.  
-- El sistema debe funcionar en consola.  
-- El sistema debe ser fácil de usar.  
-- El sistema debe validar correctamente los datos ingresados.  
-- El sistema debe tener una estructura modular usando clases.  
-- El sistema debe ser eficiente en el manejo de datos.  
-- El sistema debe garantizar integridad de la información.  
-- El sistema debe permitir mantenimiento y escalabilidad.  
+> - El sistema debe funcionar en consola.  
+> - El sistema debe ser fácil de usar.  
+> - El sistema debe validar correctamente los datos ingresados.  
+> - El sistema debe tener una estructura modular usando clases.  
+> - El sistema debe ser eficiente en el manejo de datos.  
+> - El sistema debe garantizar integridad de la información.  
+> - El sistema debe permitir mantenimiento y escalabilidad.  
 # 7. *Plan de proyecto*
 ## Actividades:
 >
