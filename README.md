@@ -84,11 +84,11 @@
 >  - Entrega final
 ## Cronograma:
 ### Semana 1-2: Análisis y planeación 
-> desc
+> En cuanto se entregue la información de pasos e instrucciones a seguir para el desarrollo del proyecto, se procederá a crear el grupo de trabajo, analizar la información dada, comenzar la planeación escrita junto a la creación de las actas. 
 ### Semana 3-4: Diseño del sistema  
-> desc
+> Conocidos los pasos y los procedimientos para realizar el trabajo en Github se crearan los respectivos archivos iniciales tales como el README, dejando estructurados los segmentos que se piden para la primera entrega. 
 ### Semana 5-8: Desarrollo inicial  
-> desc
+> Se trabajará en el README ya creado y estructurado, completando detalladamente la información ya planeada y faltante acerca del proyecto, finalizando así lo requerido para la primera entrega. Se tendran en cuenta consideraciones para el desarrollo de los pasos programables en Python, teniendo así claro lo pedido y cómo se hará. 
 ### Semana 9-12: Desarrollo completo  
 > desc
 ### Semana 13-14: Pruebas  
