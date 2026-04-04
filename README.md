@@ -64,11 +64,10 @@
 > - El sistema debe ser desarrollado en Python.  
 > - El sistema debe funcionar en consola.  
 > - El sistema debe ser fácil de usar.  
-> - El sistema debe validar correctamente los datos ingresados.  
-> - El sistema debe tener una estructura modular usando clases.  
+> - El sistema debe validar correctamente los datos ingresados.   
 > - El sistema debe ser eficiente en el manejo de datos.  
 > - El sistema debe garantizar integridad de la información.  
-> - El sistema debe permitir mantenimiento y escalabilidad.  
+> - El sistema debe permitir mantenimiento. 
 # 7. *Plan de proyecto*
 ## Actividades:
 >- Análisis de requisitos
@@ -84,7 +83,7 @@
 >  - Entrega final
 ## Cronograma:
 ### Semana 1-2: Análisis y planeación 
-> Entregada la información de pasos e instrucciones a seguir para el desarrollo del proyecto, se procederá a crear el grupo de trabajo, analizar la información dada, comenzar la planeación escrita junto a la creación de las actas. 
+> Entregada la información de pasos e instrucciones a seguir para el desarrollo del proyecto, se procederá a crear el grupo de trabajo, analizar la información dada, y así comenzando la planeación escrita junto a la creación de las actas. 
 ### Semana 3-4: Diseño del sistema  
 > Conocidos los pasos y los procedimientos para realizar el trabajo en Github se crearan los respectivos archivos iniciales tales como el README, dejando estructurados los segmentos que se piden para la primera entrega. 
 ### Semana 5-8: Desarrollo inicial  
