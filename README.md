@@ -29,7 +29,7 @@
 ## Descripción del proyecto:
 > El proyecto "Préstamos Sr. Mosquito" es un software desarrollado en Python basado en consola que permite gestionar el préstamo de artículos entre usuarios. El sistema busca solucionar el problema de control y seguimiento de objetos prestados, evitando pérdidas y olvidos.
 ## Imagen representativa:
-![imagen del sr-mosquito](img/srmosquito.jpg)
+![imagen del sr-mosquito](img/sr-mosquito.jpg)
 # 4. *Licencia*
 
 <a href="https://github.com/isabelagonzalezt/Prestamos-sr-mosquito">Prestamos-sr-mosquito</a> © 2026 by <a href="https://github.com/isabelagonzalezt">Isabela Gonzalez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
