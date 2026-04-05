@@ -84,9 +84,9 @@
 ## Cronograma:
 ### Semana 1-3: Análisis y planeación 
 > Entregada la información de pasos e instrucciones a seguir para el desarrollo del proyecto, se procederá a crear el grupo de trabajo, analizar la información dada, y así comenzando la planeación escrita junto a la creación de las actas. 
-### Semana 4: Diseño del sistema  
+### Semana 4-5: Diseño del sistema  
 > Conocidos los pasos y los procedimientos para realizar el trabajo en Github se crearan los respectivos archivos iniciales tales como el README, dejando estructurados los segmentos que se piden para la primera entrega. 
-### Semana 5-8: Desarrollo inicial  
+### Semana 6-8: Desarrollo inicial  
 > Se trabajará en el README ya creado y estructurado, completando detalladamente la información ya planeada y faltante acerca del proyecto, finalizando así lo requerido para la primera entrega. Se tendran en cuenta consideraciones para el desarrollo de los pasos programables en Python, teniendo así claro lo pedido y cómo se hará. 
 ### Semana 9-12: Desarrollo completo  
 > Se desarrollarán todos los algoritmos necesarios bajo plataformas como VSCode o Spyder, que permitirán el desarrollo de la plataforma de préstamos, buscando cumplir los requisitos mencionados en la rúbrica evaluativa. Además se publicarán en el repositorio GitHub del proyecto, en la carpeta "src".
