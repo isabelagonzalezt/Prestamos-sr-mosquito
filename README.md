@@ -82,9 +82,9 @@
 >  - Documentación
 >  - Entrega final
 ## Cronograma:
-### Semana 1-2: Análisis y planeación 
+### Semana 1-3: Análisis y planeación 
 > Entregada la información de pasos e instrucciones a seguir para el desarrollo del proyecto, se procederá a crear el grupo de trabajo, analizar la información dada, y así comenzando la planeación escrita junto a la creación de las actas. 
-### Semana 3-4: Diseño del sistema  
+### Semana 4: Diseño del sistema  
 > Conocidos los pasos y los procedimientos para realizar el trabajo en Github se crearan los respectivos archivos iniciales tales como el README, dejando estructurados los segmentos que se piden para la primera entrega. 
 ### Semana 5-8: Desarrollo inicial  
 > Se trabajará en el README ya creado y estructurado, completando detalladamente la información ya planeada y faltante acerca del proyecto, finalizando así lo requerido para la primera entrega. Se tendran en cuenta consideraciones para el desarrollo de los pasos programables en Python, teniendo así claro lo pedido y cómo se hará. 
@@ -97,4 +97,10 @@
 ### Semana 16: Entrega y sustentación
 > Se realizará la entrega del proyecto completo mediante el repositorio GitHub al docente, cumpliendo con el ordenamiento adecuado mencionado en la rúbrica evaluativa. Además se realizará la sustentación del proyecto en clase.
 ## Prespuesto: 
->
+> El proyecto se calcula con base en tiempo de trabajo:
+> - Integrantes: 3 estudiantes  
+> - Tiempo total: 50 horas  
+> - Total horas: 150 horas  
+> Valor estimado:
+> - 1.193.850 para el total del grupo, e individualmente son 397.950.
+> El pago se considera en tiempo de práctica académica.
