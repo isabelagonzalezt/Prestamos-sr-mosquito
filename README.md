@@ -19,7 +19,7 @@
 ### Programa al que pertenece:
 > (513) Ingeniería industrial
 ### Habilidades y fortalezas:
->
+> Empatía, respeto, flexibilidad, colaboración, aprendizaje rápido, creatividad
 ## **Alejandro Usme López**
 ### Programa al que pertenece:
 > (513) Ingeniería Industrial 
