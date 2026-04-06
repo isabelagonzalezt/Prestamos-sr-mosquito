@@ -99,7 +99,7 @@
 ### Diagrama de Gantt
 ![diagrama-de-gantt](https://github.com/isabelagonzalezt/Prestamos-sr-mosquito/blob/main/img/diagramagantt.jpeg?raw=true)
 ## Prespuesto: 
-> El proyecto se calcula con base en tiempo de trabajo:
+### El proyecto se calcula con base en tiempo de trabajo:
 > - Integrantes: 3 estudiantes  
 > - Tiempo total: 50 horas  
 > - Total horas: 150 horas  
