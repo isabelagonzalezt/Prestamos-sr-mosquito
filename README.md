@@ -17,7 +17,7 @@
 > Respeto, responsabilidad, adaptación
 ## **Edwin García**
 ### Programa al que pertenece:
->
+> (513) Ingeniería industrial
 ### Habilidades y fortalezas:
 >
 ## **Alejandro Usme**
