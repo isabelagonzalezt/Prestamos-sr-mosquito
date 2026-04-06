@@ -105,4 +105,4 @@
 > - Total horas: 150 horas  
 > Valor estimado:
 > - 1.193.850 para el total del grupo, e individualmente son 397.950.
-> El pago se considera en tiempo de práctica académica.
+> El pago se considera en tiempo de práctica académica (1 SMLV).
