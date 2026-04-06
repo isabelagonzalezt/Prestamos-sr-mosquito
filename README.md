@@ -14,7 +14,7 @@
 ### Programa al que pertenece:
 > (513) Ingeniería Industrial
 ### Habilidades y fortalezas:
-> Respeto, responsabilidad, adaptación
+> Respeto, responsabilidad, adaptación, pensamiento crítico, resolución de problemas, gestión del tiempo.
 ## **Edwin García**
 ### Programa al que pertenece:
 > (513) Ingeniería industrial
