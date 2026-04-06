@@ -1,26 +1,26 @@
 # **Prestamos-sr-mosquito🦟**
 # 1. *Integrantes*
-## **Isabela Gonzalez**
+## **Isabela Gonzalez Toro**
 ### Descripción
 > Hola, soy una joven de 18 años, estudiante de Ingeniería Industrial de la Universidad de Antioquia, actualmente cursando el tercer semestre académico. Además de la ingeniería, tengo otras pasiones como el arte, la música o los videojuegos. Lo que más me motiva es poder vivir haciendo lo que amo.
-## **Edwin Garcia**
+## **Edwin David García Ríos**
 ### Descripción
 > hola, preciosos soy un joven de 18 años, estudiante de ingenieria industrial en la mejor universidad osea la udea, voy en tercer semestre. me gustan muchos lo gatos, jugar futbol, hacer deporte, compartir con mis amigos, pero sobre todo me encanta dormir.
-## **Alejandro Usme**
+## **Alejandro Usme López**
 ### Descripción
 > Hola, tengo 19 años, actualmente estudio en la Universidad de Antioquia en el programa de Ingeniería Industrial. Soy un estudiante enfocado en el éxito y las metas, viviendo el día a día con entusiasmo y alegría. Me considero una persona proactiva y con gran capacidad de adaptación a nuevos retos. Me gusta el cine y los videojuegos. 
 # 2. *Vínculos académicos y descripción*
-## **Isabela Gonzalez**
+## **Isabela Gonzalez Toro**
 ### Programa al que pertenece:
 > (513) Ingeniería Industrial
 ### Habilidades y fortalezas:
 > Respeto, responsabilidad, adaptación, pensamiento crítico, resolución de problemas, gestión del tiempo.
-## **Edwin García**
+## **Edwin David García Ríos**
 ### Programa al que pertenece:
 > (513) Ingeniería industrial
 ### Habilidades y fortalezas:
 >
-## **Alejandro Usme**
+## **Alejandro Usme López**
 ### Programa al que pertenece:
 > (513) Ingeniería Industrial 
 ### Habilidades y fortalezas:
