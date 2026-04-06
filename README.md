@@ -96,6 +96,8 @@
 > Con base al período de pruebas, se detectarán fallas o posibles mejoras a los algoritmos desarollados. Durante los ajustes finales, se buscará reducir en su totalidad o en la mayor cantidad posible el número de fallas en la ejecución o utilidad de la plataforma.
 ### Semana 16: Entrega y sustentación
 > Se realizará la entrega del proyecto completo mediante el repositorio GitHub al docente, cumpliendo con el ordenamiento adecuado mencionado en la rúbrica evaluativa. Además se realizará la sustentación del proyecto en clase.
+### Diagrama de Gantt
+
 ## Prespuesto: 
 > El proyecto se calcula con base en tiempo de trabajo:
 > - Integrantes: 3 estudiantes  
