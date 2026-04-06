@@ -97,7 +97,7 @@
 ### Semana 16: Entrega y sustentación
 > Se realizará la entrega del proyecto completo mediante el repositorio GitHub al docente, cumpliendo con el ordenamiento adecuado mencionado en la rúbrica evaluativa. Además se realizará la sustentación del proyecto en clase.
 ### Diagrama de Gantt
-![diagrama-de-gantt](https://github.com/isabelagonzalezt/Prestamos-sr-mosquito/blob/main/img/diagramagantt.jpeg?raw=true)
+![diagrama-de-gantt](https://github.com/isabelagonzalezt/Prestamos-sr-mosquito/blob/main/img/diagramag%20.jpeg?raw=true)
 ## Prespuesto: 
 ### El proyecto se calcula con base en tiempo de trabajo:
 > - Integrantes: 3 estudiantes  
