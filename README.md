@@ -106,3 +106,12 @@
 > Valor estimado:
 > - 1.193.850 para el total del grupo, e individualmente son 397.950.
 > El pago se considera en tiempo de práctica académica (1 SMLV).
+# 8. *Plan de versionado*
+### Versión 0.1.0: Semanas 4 y 5
+> Se estableció la primera versión funcional del programa, definiendo la estructura que tendría el proyecto.
+### Versión 0.2.0: Semanas 6 y 7
+> Se crea la estructura del menú de usuario, mediante la implementación de condicionales, sin implementar aún las funciones necesarias.
+### Version 0.3.0: Semana 13
+> Se comienzan a estructurar las principales funciones que darían paso a la estructura sólida del programa. Se reestructuró en gran parte la idea principal que se tenía para la funcionalidad del programa.
+### Versión 1.0.0: Semana 15
+> Se realizan las pruebas necesarias para verificar la correcta ejecución de cada función, para así corregir errores en el código y presentar, a modo de proyecto final, una versión final estable.
