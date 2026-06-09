@@ -34,27 +34,27 @@
 
 <a href="https://github.com/isabelagonzalezt/Prestamos-sr-mosquito">Prestamos-sr-mosquito</a> © 2026 by <a href="https://github.com/isabelagonzalezt">Isabela Gonzalez</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 # 5. *Reporte de visión*
-## Desccripción general:
-> Software desarollado bajo el entorno de programación Python, mediante el uso de programación básica y pensamiento algorítmico, con el propósito principal de brindar solución a modo de gestor de préstamos.
+## Descripción general:
+> Software desarrollado bajo el entorno de programación Python, mediante el uso de programación básica y pensamiento algorítmico, con el propósito principal de brindar solución a modo de gestor de préstamos, incluyendo funciones como el seguimiento de devoluciones, registro de ítems y usuarios, entre otras que permitan tener una disponibilidad amena de la información.
 ## Objetivos:
-> - Registrar usuarios e ítems
-> - Organizar y gestionar la información de préstamos
-> - Automatizar y registrar el control de devoluciones
-> - Reducir pérdidas de objetos
-> - Generar reportes claros y útiles
+> - Implementar un sistema con funciones que permitan el registro de ítems y usuarios.
+> - Facilitar el acceso y la gestión de información relacionada a los préstamos
+> - Garantizar control sobre las devoluciones, mediante un seguimiento oportuno de los ítems
+> - Minimizar la pérdida de ítems mediante el seguimiento y control de los préstamos
+> - Generar reportes que permitan una correcta operación del servicio ofrecido por el prestamista
 ## Beneficios:
->- Mejor organización
-> - Control total de préstamos
+> - Mejor organización de la información del sistema
+> - Aumento del control sobre las acciones de los ítems (préstamos y devoluciones)
 > - Automatización de procesos
-> - Reducción de errores humanos
+> - Reducción de errores asociados al manejo de los registros
 # 6. *Especificación de requisitos*
 ## Requisitos funcionales:
-> - El sistema debe permitir registrar usuarios con validaciones.  
-> - El sistema debe permitir registrar ítems con categoría e ID único.  
-> - El sistema debe permitir realizar préstamos solo a usuarios registrados.  
-> - El sistema debe permitir registrar devoluciones.  
+> - El sistema debe permitir registrar, modificar y consultar los usuarios con validaciones.  
+> - El sistema debe permitir registrar ítems con categoría e ID único, además de su disponibilidad para préstamo.  
+> - El sistema debe permitir realizar préstamos solo a usuarios registrados, asociándolos a una fecha e ID de préstamo específico.  
+> - El sistema debe permitir registrar devoluciones y actualizar la disponibilidad de cada ítem.  
 > - El sistema debe generar certificados de devolución.  
-> - El sistema debe generar ventas automáticas después de 30 días.  
+> - El sistema debe generar ventas automáticas después de 30 días, mediante un acceso al historial de préstamos.  
 > - El sistema debe calcular el impuesto del 23% en ventas.  
 > - El sistema debe permitir consultar el estado de los préstamos.  
 > - El sistema debe generar reportes administrativos.  
