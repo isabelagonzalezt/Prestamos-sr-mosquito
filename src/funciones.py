@@ -707,7 +707,7 @@ def menu_admin(usuarios,items,prestamos, ventas):
     administradores = {
         "Isabela Gonzalez Toro": "1017930887",
         "Alejandro Usme López": "1018235618",
-        "Edwin David Garcia Rios": "5678"
+        "Edwin David Garcia Rios": "1025891364"
     }
     print("\n-ACCESO ADMINISTRADOR-")
 
