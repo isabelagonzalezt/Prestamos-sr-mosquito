@@ -784,8 +784,8 @@ def menu_admin(usuarios,items,prestamos, ventas):
                           )
                     print("-"*100)
                     print("\nUSUARIO CON MENOS PRÉSTAMOS")
-                    print(usuario[menor_doc]["nombre"],
-                          usuario[menor_doc]["apellido"],
+                    print(usuarios[menor_doc]["nombre"],
+                          usuarios[menor_doc]["apellido"],
                           "-",
                           menor)
             elif opcion == "7":
